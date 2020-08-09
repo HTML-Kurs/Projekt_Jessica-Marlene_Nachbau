@@ -35,7 +35,7 @@ ul
 	padding-top: 40px;
 }
 
-li 
+li
 {
 		list-style-type: none;
 }
@@ -45,8 +45,8 @@ header
 	left: 0;
 	top: 40px;
 	position: left-side;
-	
-	
+
+
 }
 
 #main-nav
@@ -56,19 +56,19 @@ header
 	margin: 10px 50px 0 0;
 }
 
-body background 
+body background
 {
 	background-position: center, center;
 	background-attachment: fixed;
 	background-size: cover;
 	margin:0;
 	padding: 0;
-	height: 100%	
+	height: 100%
 }
 
 
 
-.NavbarListItem
+#main-nav li
 {
 	float: right;
 	padding-right: 110px;
@@ -76,20 +76,3 @@ body background
 	padding-top: 1.5%;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
