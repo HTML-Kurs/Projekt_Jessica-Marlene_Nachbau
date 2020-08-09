@@ -16,9 +16,10 @@ html,body
 	padding: 0;
 }
 
-section
+section #öffnungszeiten
 {
 	min-height: 100%
+	float: left;
 }
 
 a
@@ -70,7 +71,7 @@ body background
 .NavbarListItem
 {
 	float: right;
-	padding-right: 20px;
+	padding-right: 110px;
 	margin: auto;
 	padding-top: 1.5%;
 
